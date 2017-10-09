@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Тест ПДД</string>
+    <string name="examination">Экзамен</string>
+    <string name="ticket">Билеты</string>
+    <string name="directory">Справочник</string>
+    <string name="settings">Настройки</string>
+    <string name="question_text">Вопрос</string>
+    <string name="end">Завершить тест</string>
+    <string name="next">Следующий вопрос</string>
+    <string name="prev">Предыдущий вопрос</string>
+    <string name="main_menu">Главное меню</string>
+    <string name="show_ans">Показать ответы</string>
+    <string name="exs_passed">Экзамен сдан</string>
+    <string name="exs_no_passed">Экзамен не сдан</string>
+    <string name="count_err_str">Количество ошибок: </string>
+    <string name="count_no_ans_str">Количество без ответа: </string>
+    <string name="count_true_str">Количество верных ответов: </string>
+    <string name="exit_app_string">Выход</string>
+    <string name="billet_string">Билет</string>
+    <string name="exit">Выход</string>
+    <string name="exit_alert">Вы действительно хотите выйти?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="fines">Нарушения и штрафы</string>
+    <string name="gibdd">Сайт ГИБДД</string>
+</resources>

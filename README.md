@@ -12,7 +12,7 @@ This project allows people who study in driving schools to test their theoretica
 2. You can choice one of this points. If you click on the button "Экзамен" you will take the time test.
 ![alt text](PDDtest/User guide/Exam.PNG).
 You can choice just one of several answers.
-![alt text](PDDtest/User guide/ChoiceVariants.PNG).
+![alt text](https://github.com/zheka1994/PDDtest/blob/master/User%20guide/ChoiceVariants.PNG).
 At the last page of PagerView you can see button "Завершить". If you have time, you can go back to the previous questions or you can end the test to click button "Завершить".
 ![alt text](PDDtest/User guide/EndBut.PNG).
 Then you will see your result.

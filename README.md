@@ -8,6 +8,7 @@ This project allows people who study in driving schools to test their theoretica
 5. Run this file on your android device.
 ## User guide
 1. When apllication was started you will see this GUI.
+  
 ![alt text](https://github.com/zheka1994/PDDtest/blob/master/User%20guide/MainMenu.PNG).
 2. You can choice one of this points. If you click on the button "Экзамен" you will take the time test.
 ![alt text](https://github.com/zheka1994/PDDtest/blob/master/User%20guide/Exam.PNG).
